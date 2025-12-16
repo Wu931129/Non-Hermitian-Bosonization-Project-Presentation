@@ -4,8 +4,8 @@ This repository contains presentation materials and reports focused on advanced 
 📂 Contents
 A Brief Review of Quantum Liouville Theory.pdf
 
-An overview of Quantum Liouville Theory, exploring its significance in 2D quantum gravity and non-rational conformal field theory.
+1. An overview of Quantum Liouville Theory
+Exploring its significance in 2D quantum gravity and non-rational conformal field theory.
 
-Bosonization in 1D and Sine Gordon Model.pdf
-
+2. Bosonization in 1D and Sine Gordon Model
 A study on bosonization techniques in one dimension and their application to the Sine-Gordon model, discussing the duality between massive Thirring model and Sine-Gordon theory.
